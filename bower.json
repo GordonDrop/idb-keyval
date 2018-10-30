@@ -1,0 +1,26 @@
+{
+  "name": "idb-keyval",
+  "description": "A super-simple-small keyval store built on top of IndexedDB",
+  "main": "./dist/idb-keyval-cjs.js",
+  "authors": [
+    "Benny Powers"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "idb",
+    "indexeddb",
+    "store",
+    "keyval",
+    "localstorage",
+    "storage",
+    "promise"
+  ],
+  "homepage": "https://github.com/jakearchibald/idb-keyval",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
